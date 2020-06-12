@@ -1,1 +1,2 @@
 hello world in a second file
+second line into second file
