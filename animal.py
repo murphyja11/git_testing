@@ -1,5 +1,5 @@
 def default():
-    print('Hello World')
+    print('Hello')
 
 def main():
     if argv[1] == 'cat':
