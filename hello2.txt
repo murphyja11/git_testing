@@ -5,3 +5,5 @@ inserting a new line here
 adding again
 add anther line
 another
+adding a text line to hello
+text
